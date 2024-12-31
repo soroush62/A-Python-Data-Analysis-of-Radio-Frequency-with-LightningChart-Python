@@ -1,4 +1,4 @@
-# A Python Data Analysis of Radio Frequency with LightningChart Python
+# Visualization of Radio Frequencies with LightningChart Python
 
 ## Introduction to Signal Analysis and Visualization for Communication Systems
 ### What is Signal Analysis?
